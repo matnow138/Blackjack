@@ -28,5 +28,8 @@ public class Blackjack extends Application {
         primaryStage.setScene(scene);
         primaryStage.show();
 
+
+
+
     }
 }
